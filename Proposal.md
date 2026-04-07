@@ -36,7 +36,7 @@ Aplicación de tipo Helpdesk con sistema de tickets agrupados por categoría y/o
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Categoria Ticket<br>2. CRUD Prioridad Ticket<br>3. CRUD Usuario<br>4. CRUD Tecnico<br>5. CRUD Ticket<br>6. CRUD Oficina|
-|CUU/Epic|1. Realizar el alta de un ticket<br>2. Registrar la solucion de un ticket|
+|CUU/Epic|1. Realizar el alta de un ticket<br>2. Registrar la solucion de un ticket <br> 3. Abrir chat para un ticket entre el tecnico y el usuario|
 
 
 ### Alcance Adicional Voluntario
